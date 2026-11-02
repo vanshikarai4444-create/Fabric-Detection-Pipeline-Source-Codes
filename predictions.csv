@@ -1,0 +1,51 @@
+image_name,actual_label,predicted_label,confidence,latency_ms,correct
+image2__20260609130554_jpg.rf.394966c8b2ff85814729e2f6393043b6.jpg,defective,defective,0.9583,9882.4,True
+image2__20260609134225_jpg.rf.5b5af9f6c54a94f56fa129666a7aa6d3.jpg,defect free,defect free,0.8573,155.2,True
+image2__20260609111910_jpg.rf.23b9ade69ad234743385753326f39e8a.jpg,defect free,defective,0.8155,185.5,False
+image2__20260611133003-copy_jpg.rf.94cf7312ee313f2ca411219b7ef2eff9.jpg,defective,defect free,0.7393,164.0,False
+image2__20260611132052_jpg.rf.23a351061b7b3f9908324739aadbc409.jpg,defect free,defect free,0.9632,147.3,True
+image2__20260611131311_jpg.rf.5a8bfa41ac029a2c4289d714584e6748.jpg,defect free,defect free,0.6053,153.9,True
+image2__20260611124902_jpg.rf.caa11ff8108d7f2276b7878029028033.jpg,defect free,defect free,0.9788,170.1,True
+image2__20260609135421_jpg.rf.af9a39753be3de02dfb5c1ce0630392e.jpg,defect free,defect free,0.8568,128.7,True
+image2__20260611132856_jpg.rf.38ecb7cf7d4b3d4e7d5b0b49cf9c1852.jpg,defective,defect free,0.8912,161.2,False
+image2__20260609134025_jpg.rf.8348704508f2259dc3460aa9eb2c3b99.jpg,defect free,defect free,0.856,134.8,True
+image2__20260609131410_jpg.rf.220dc1161b089e5c26508d413577135d.jpg,defective,defective,0.9435,193.6,True
+image2__20260609112051_jpg.rf.f9d8dae60b1db9f28b5174d7c5ad54cb.jpg,defective,defective,0.9194,163.4,True
+image2__20260609123908_jpg.rf.86e389fcc882d171d0011f2702390ca9.jpg,defect free,defective,0.7519,186.2,False
+image2__20260609113011_jpg.rf.d5cc7fc04e9282464de1a1c95c4f1642.jpg,defective,defective,0.9335,179.5,True
+image2__20260611133916_jpg.rf.100ca7e43587085e1b7508ca056e0841.jpg,defect free,defect free,0.5784,165.6,True
+image2__20260609112207_jpg.rf.2b6ba74337a6c646095d4ed3a485e0c0.jpg,defect free,defective,0.8301,193.5,False
+image2__20260609112122_jpg.rf.67abf601fcdb3eb72e3d7fb8a70db559.jpg,defect free,defective,0.912,187.0,False
+image2__20260609130256_jpg.rf.951b2d27341dc7b63661c135b31c9edd.jpg,defect free,defective,0.9328,169.2,False
+image2__20260611124832_jpg.rf.8bb7df625b0c3c3bd823ab7e7a4a728d.jpg,defect free,defect free,0.9791,199.7,True
+image2__20260611125508_jpg.rf.e349213f3ff5732594307a791c20a7ff.jpg,defect free,defect free,0.9896,151.6,True
+image2__20260609110318_jpg.rf.5478d18c0d74af6afacd30ebdfa79899.jpg,defective,defective,0.9819,170.4,True
+image2__20260609115305_jpg.rf.3e4893ca1b60ca127f708203d60142c6.jpg,defective,defect free,0.8958,125.6,False
+image2__20260609112016_jpg.rf.14f236b36cfafbf16d961c0b082bdb7c.jpg,defect free,defective,0.9654,158.4,False
+image2__20260609112226_jpg.rf.507625ff423558985f98a3c4eef8ff57.jpg,defective,defective,0.8013,210.7,True
+image2__20260611124614_jpg.rf.c41f06ce9b53c762265e0b8a8507959d.jpg,defect free,defect free,0.9866,147.8,True
+image2__20260611104629-copy_jpg.rf.5ec11eff543843901bce3f479538cb35.jpg,defective,defect free,0.5262,152.1,False
+image2__20260609130754_jpg.rf.5f2a7c27e10f53b1fce97f509b212434.jpg,defective,defective,0.9409,158.9,True
+image2__20260611102839_jpg.rf.a8171583209f146b20ae7ca0926e1c1c.jpg,defective,defective,0.7396,138.4,True
+image2__20260611133843_jpg.rf.cf81a83ee2df7fd6f45413c45f2537ee.jpg,defect free,defective,0.8798,131.8,False
+image2__20260611124834_jpg.rf.20197cc272d42358b0cdb8882f34a247.jpg,defect free,defect free,0.9761,154.3,True
+image2__20260611134135_jpg.rf.d1867466126ef9cc2d594f457956cf4a.jpg,defect free,defect free,0.8007,136.3,True
+image2__20260609113006_jpg.rf.9f4a9e364ef219af65d7b15dbb3e1bf1.jpg,defective,defective,0.9764,159.2,True
+image2__20260611132124_jpg.rf.4fe0c9bc34bde9dddd0a6112197dca82.jpg,defect free,defect free,0.7051,137.1,True
+image2__20260609110255_jpg.rf.e948b730c5d5cff4f086736b9cf161be.jpg,defect free,defective,0.842,153.1,False
+image2__20260611134233-copy_jpg.rf.63b0cd776e4edf84e5367f03029fe22c.jpg,defective,defective,0.9256,135.1,True
+image2__20260611105715_jpg.rf.ce730195b3e6a2b8181abc66bdb6ce0c.jpg,defect free,defect free,0.569,132.7,True
+image2__20260611102455-copy_jpg.rf.4ef6f11c9782e8e133d4cb1e2e644ce0.jpg,defective,defective,0.6321,161.5,True
+image2__20260611132808_jpg.rf.ba02c1cd6dd20533d70b920b17881c7e.jpg,defect free,defect free,0.9923,157.6,True
+image2__20260609142915_jpg.rf.e0f95ea6c35e87df4eab79a9ef4e12a6.jpg,defect free,Unlabeled,0.9705,154.5,False
+image2__20260611124738_jpg.rf.74e10f245800e695a37e2758f05284f5.jpg,defect free,defect free,0.88,151.2,True
+image2__20260611134321-copy_jpg.rf.f20c399cb94f20a162aee73d4c9ce11c.jpg,defective,defective,0.9669,138.6,True
+image2__20260611132748_jpg.rf.f145008389d7e72e0860f8d9dbe6de85.jpg,defect free,defect free,0.9943,158.6,True
+image2__20260611133503_jpg.rf.9781880aea84f5779cb165161be251f1.jpg,defect free,defect free,0.7009,137.5,True
+image2__20260609134007_jpg.rf.657d931d256d53139190cb0761b2934d.jpg,defect free,defect free,0.8571,115.5,True
+image2__20260611133013_jpg.rf.8bb7d9d312adc24ca3ddf844605df93d.jpg,defect free,defect free,0.7386,133.4,True
+image2__20260611132841_jpg.rf.29ff1bb212785de0a1a800c934098a54.jpg,defect free,defect free,0.7409,133.4,True
+image2__20260609115758_jpg.rf.35faac58db7e14ef824276b996231163.jpg,defective,defect free,0.8713,119.4,False
+image2__20260611131414_jpg.rf.fb572023a2882aa954b6ea6a08eb5007.jpg,defect free,defect free,0.7741,155.1,True
+image2__20260609115002_jpg.rf.abe3c76391ba05a12543f493a0ccbc54.jpg,defect free,defect free,0.8946,122.5,True
+image2__20260611132500-copy_jpg.rf.25e735496609dcb829f32e2030af3a62.jpg,defective,defect free,0.4143,139.5,False
